@@ -196,7 +196,7 @@ blockquote {
 }
 
 .tm-hero-title {
-  font-size: 3.5rem;
+  font-size: 5rem;     /*the orginal is 3.5rem*/
   text-shadow: 2px 2px 2px #333;
 }
 
